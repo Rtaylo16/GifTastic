@@ -8,4 +8,6 @@ The user can then add more buttons of their choosing and more gifs will be gener
 ## Install
 Load the site from the link and get started.
 
+Link: https://rtaylo16.github.io/GifTastic/.
+
 ![GitHub Logo](screenshot.png)
